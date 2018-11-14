@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Леонардо ДиКаприо",
+        "birth": "11.08.1974",
+        "films": 35,
+        "liked": 33765,
+        "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_37859.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Мила Кунис",
+        "birth": "14.07.1983",
+        "films": 43,
+        "liked":4117,
+        "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_52900.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Квентин Тарантино",
+        "birth": "27.04.1973",
+        "films":43,
+        "liked":11462,
+        "photo": "https://st.kp.yandex.net/images/actor_iphone/iphone360_7640.jpg"
+    }
+]
